@@ -1,0 +1,24 @@
+#body {
+    background-color: goldenrod;
+}
+
+#odin-image {
+    float: top;
+    margin: 0px 0px 0px 910px;
+    background-color: yellowgreen;
+}
+
+.first,
+.recipe-list {
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
+
+.link-taker{
+    color: rgb(130, 50, 100);
+    background-color: rgba(168, 252, 13, 0.3);
+}
+

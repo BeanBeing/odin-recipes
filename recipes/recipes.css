@@ -1,0 +1,24 @@
+#body {
+    background-color: white;
+}
+
+.heading {
+    color: rgb(233, 96, 78);
+    background-color: rgba(104, 240, 188, 0.3)
+}
+
+.texts {
+    width: auto;
+    height: auto;
+    color: rgb(130, 50, 100);
+    background-color: rgba(168, 252, 13, 0.3);
+}
+
+.father-list{
+    background-color: indianred;
+}
+
+.father-list .list{
+    background-color: rgba(200, 300, 200, 0.5);
+    color: ivory;
+}
